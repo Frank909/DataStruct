@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frank/CLionProjects/Grafi/Grafo.h
+list_vector.h
+C:/Users/Frank/CLionProjects/Grafi/list_vector.h
+
+C:/Users/Frank/CLionProjects/Grafi/grafolist.h
+Grafo.h
+C:/Users/Frank/CLionProjects/Grafi/Grafo.h
+list_vector.h
+C:/Users/Frank/CLionProjects/Grafi/list_vector.h
+
+C:/Users/Frank/CLionProjects/Grafi/linear_list.h
+iostream
+-
+
+C:/Users/Frank/CLionProjects/Grafi/list_vector.h
+linear_list.h
+C:/Users/Frank/CLionProjects/Grafi/linear_list.h
+
+C:/Users/Frank/CLionProjects/Grafi/main.cpp
+grafolist.h
+C:/Users/Frank/CLionProjects/Grafi/grafolist.h
+string
+-
+

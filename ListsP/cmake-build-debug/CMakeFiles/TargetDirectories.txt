@@ -1,0 +1,3 @@
+C:/Users/Frank/CLionProjects/ListsP/cmake-build-debug/CMakeFiles/ListsP.dir
+C:/Users/Frank/CLionProjects/ListsP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Frank/CLionProjects/ListsP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

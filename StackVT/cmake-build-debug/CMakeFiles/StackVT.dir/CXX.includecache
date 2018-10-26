@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frank/CLionProjects/StackVT/StackVT.h
+iostream
+-
+
+C:/Users/Frank/CLionProjects/StackVT/main.cpp
+iostream
+-
+StackVT.h
+C:/Users/Frank/CLionProjects/StackVT/StackVT.h
+

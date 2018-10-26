@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.1.5\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\StackVT.dir/objects.a
+D:\MinGW\mingw64\bin\ar.exe cr CMakeFiles\StackVT.dir/objects.a @CMakeFiles\StackVT.dir\objects1.rsp
+D:\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\StackVT.dir/objects.a -Wl,--no-whole-archive  -o StackVT.exe -Wl,--out-implib,libStackVT.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StackVT.dir\linklibs.rsp

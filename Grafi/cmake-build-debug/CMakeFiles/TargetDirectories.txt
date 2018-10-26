@@ -1,0 +1,3 @@
+C:/Users/Frank/CLionProjects/Grafi/cmake-build-debug/CMakeFiles/Grafi.dir
+C:/Users/Frank/CLionProjects/Grafi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Frank/CLionProjects/Grafi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

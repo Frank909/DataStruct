@@ -1,0 +1,3 @@
+C:/Users/Frank/CLionProjects/QueueVT/cmake-build-debug/CMakeFiles/QueueVT.dir
+C:/Users/Frank/CLionProjects/QueueVT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Frank/CLionProjects/QueueVT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

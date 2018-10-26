@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frank/CLionProjects/QueueP/QueueP.h
+assert.h
+C:/Users/Frank/CLionProjects/QueueP/assert.h
+
+C:/Users/Frank/CLionProjects/QueueP/main.cpp
+iostream
+-
+QueueP.h
+C:/Users/Frank/CLionProjects/QueueP/QueueP.h
+

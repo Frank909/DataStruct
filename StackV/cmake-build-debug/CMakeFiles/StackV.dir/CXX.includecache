@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frank/CLionProjects/StackV/main.cpp
+iostream
+-
+pilav.h
+C:/Users/Frank/CLionProjects/StackV/pilav.h
+
+C:/Users/Frank/CLionProjects/StackV/nodopv.h
+iostream
+-
+
+C:/Users/Frank/CLionProjects/StackV/pilav.h
+iostream
+-
+nodopv.h
+C:/Users/Frank/CLionProjects/StackV/nodopv.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frank/CLionProjects/Dictionary/Hash_Table.h
+dictionary.h
+C:/Users/Frank/CLionProjects/Dictionary/dictionary.h
+string
+-
+iostream
+-
+
+C:/Users/Frank/CLionProjects/Dictionary/dictionary.h
+
+C:/Users/Frank/CLionProjects/Dictionary/main.cpp
+iostream
+-
+Hash_Table.h
+C:/Users/Frank/CLionProjects/Dictionary/Hash_Table.h
+

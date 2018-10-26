@@ -1,0 +1,3 @@
+C:/Users/Frank/CLionProjects/AlberiN-Ari/cmake-build-debug/CMakeFiles/AlberiN_Ari.dir
+C:/Users/Frank/CLionProjects/AlberiN-Ari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Frank/CLionProjects/AlberiN-Ari/cmake-build-debug/CMakeFiles/rebuild_cache.dir

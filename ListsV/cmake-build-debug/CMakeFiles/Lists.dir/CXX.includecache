@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frank/CLionProjects/ListsV/System_out.h
+ctime
+-
+random
+-
+chrono
+-
+
+C:/Users/Frank/CLionProjects/ListsV/linear_list.h
+iostream
+-
+
+C:/Users/Frank/CLionProjects/ListsV/list_vector.h
+linear_list.h
+C:/Users/Frank/CLionProjects/ListsV/linear_list.h
+
+C:/Users/Frank/CLionProjects/ListsV/main.cpp
+list_vector.h
+C:/Users/Frank/CLionProjects/ListsV/list_vector.h
+ordered_list.h
+C:/Users/Frank/CLionProjects/ListsV/ordered_list.h
+iostream
+-
+System_out.h
+C:/Users/Frank/CLionProjects/ListsV/System_out.h
+
+C:/Users/Frank/CLionProjects/ListsV/ordered_list.h
+list_vector.h
+C:/Users/Frank/CLionProjects/ListsV/list_vector.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frank/CLionProjects/QueueVT/QueueVT.h
+
+C:/Users/Frank/CLionProjects/QueueVT/main.cpp
+iostream
+-
+QueueVT.h
+C:/Users/Frank/CLionProjects/QueueVT/QueueVT.h
+
